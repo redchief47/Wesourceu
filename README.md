@@ -18,3 +18,5 @@ Run `python main.py` to generate the final JSON report.
 - Task 2: Summarize in bullet points.
 - Task 3: Extract key sections.
 - Task 4: Apply rule checks.
+
+Made by Shreyash Vinchurkar
